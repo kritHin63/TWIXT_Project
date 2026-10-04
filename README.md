@@ -1,14 +1,21 @@
 # TWIXT_Project
 Manyam Krithin
-Compile and Run: 
+
+## Compile and Run
+
+``` bash
 make
 ./twixt
+```
 
-It will the display the 24*24 grid. 
-BLUE(P1) can start playing.
- Player should enter coordinates in ( y ,x ) format(like index of an array) .
- It is 0 indexed. Enteries should be within 0-23. 
- If an invalid entery is given the player can try again. 
- Enter 0 0 to exit/withdraw.
+It will display the **24×24 grid**.
 
-Thank you
+-   **BLUE (P1)** starts playing.\
+-   Player should enter coordinates in **(y, x)** format (like array
+    indices).\
+-   Coordinates are **0‑indexed**, valid range: **0--23**.\
+-   If an invalid entry is given, the player may try again.\
+-   Enter **0 0** to exit/withdraw.
+
+Thank you.
+
